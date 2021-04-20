@@ -1,0 +1,1 @@
+This is a homework assignment that was given to me as part of the interview process for a company. The objective is try to predict power consumption of American households based on data made available by the U.S. Energy Information Administration. I use principally Pandas to load anad analyze the data.
